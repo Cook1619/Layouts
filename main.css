@@ -1,0 +1,15 @@
+body {
+  font-family: "Open Sans";
+}
+
+h1 {
+  text-align: center;
+}
+
+#container {
+  background: #003049;
+  width: 90%;
+  height: 300px;
+  margin: 0 auto;
+  border: 5px solid #003049;
+}
